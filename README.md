@@ -22,7 +22,3 @@ It uses Gorilla Mux for routing and GORM as the ORM for MySQL.
 - **GORM** - ORM for MySQL
 - **MySQL** - Relational DB
 
----
-
-## 📁 Project Structure
-
